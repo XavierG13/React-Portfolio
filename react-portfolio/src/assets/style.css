@@ -1,0 +1,73 @@
+/* general styling  */
+body {
+    background-image: url("https://github.com/XavierG13/React-Portfolio/blob/0d007cb91e7000fa964cd8a6ece8ae3e13272c11/reactportfolio/src/assets/Images/brickwall.jpg?raw=true");
+    background-position: center;
+    background-size: cover;
+}
+
+/* card/project items styling */
+#p-items {
+    background-color: transparent;
+}
+
+#project-text {
+    color: steelblue;
+    text-transform: uppercase;
+}
+
+#project-image {
+    padding: 15px;
+    margin: auto;
+    width: 500px;
+    height: 300px;
+    background-color: black;
+    border-color: dimgray;
+}
+
+/* about me styling */
+#Xavier {
+    margin-top: 50px;
+    width: 500px;
+    height: 500px;
+}
+
+#my-bio {
+    padding: 25px;
+}
+
+.myBio {
+    height: 1175px;
+}
+
+/* contact styling */
+#contact {
+    margin-top: 25px;
+}
+
+#resume {
+    background-color: white;
+}
+
+#email {
+    background-color: white;
+}
+
+/* #social-images {} */
+
+/* portfolio styling */
+#projects {
+    color: darkgray;
+}
+
+/* navbar styling  */
+
+/* footer styling */
+#footer {
+    color: dodgerblue;
+    position: fixed;
+    left: 0;
+    bottom: 0;
+    width: 100%;
+    align-content: center;
+    background-color: black;
+}
