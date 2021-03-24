@@ -15,7 +15,7 @@ function AboutMe() {
                     <Card.Img
                       id="Xavier"
                       variant="top"
-                      src="https://github.com/XavierG13/React-Portfolio/blob/1b6973c2f8805e9c2bb17d563bf93b666c54c5eb/reactportfolio/src/assets/Images/xavierguzman.png?raw=true"
+                      src="https://github.com/XavierG13/React-Portfolio/blob/4033dc6821bbaeacc407399036649245ff337cba/react-portfolio/src/assets/Images/xavierguzman.png?raw=true"
                     />
                   </Col>
                   <Col>

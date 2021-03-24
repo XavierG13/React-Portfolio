@@ -3,37 +3,37 @@
         "title": "Eat The Burger",
         "github": "https://github.com/XavierG13/burger",
         "deploy": "https://still-depths-05478.herokuapp.com/burgers",
-        "img": "https://github.com/XavierG13/React-Portfolio/blob/8fdba87296a452078ecb4fd46048e49739613f82/reactportfolio/src/assets/Images/devourdaburger.png?raw=true"
+        "img": "https://github.com/XavierG13/React-Portfolio/blob/4033dc6821bbaeacc407399036649245ff337cba/react-portfolio/src/assets/Images/devourdaburger.png?raw=true"
     },
     {
         "id": 2,
         "title": "Horiseon",
         "github": "https://github.com/XavierG13/ResponsivePortfolio",
         "deploy": "https://xavierg13.github.io/ResponsivePortfolio/",
-        "img": "https://github.com/XavierG13/React-Portfolio/blob/8fdba87296a452078ecb4fd46048e49739613f82/reactportfolio/src/assets/Images/horiseon.png?raw=true"
+        "img": "https://github.com/XavierG13/React-Portfolio/blob/4033dc6821bbaeacc407399036649245ff337cba/react-portfolio/src/assets/Images/horiseon.png?raw=true"
     }, {
         "id": 3,
         "title": "Fido For You",
         "github": "https://github.com/jannverduzco/fidoforyou",
         "deploy": "https://jannverduzco.github.io/fidoforyou/",
-        "img": "https://github.com/XavierG13/React-Portfolio/blob/8fdba87296a452078ecb4fd46048e49739613f82/reactportfolio/src/assets/Images/fidoforyou.PNG?raw=true"
+        "img": "https://github.com/XavierG13/React-Portfolio/blob/4033dc6821bbaeacc407399036649245ff337cba/react-portfolio/src/assets/Images/fidoforyou.PNG?raw=true"
     }, {
         "id": 4,
         "title": "Employee Tracker",
         "github": "https://github.com/XavierG13/Employee-Tracker",
         "deploy": "",
-        "img": "https://github.com/XavierG13/React-Portfolio/blob/8fdba87296a452078ecb4fd46048e49739613f82/reactportfolio/src/assets/Images/employeetracker.png?raw=true"
+        "img": "https://github.com/XavierG13/React-Portfolio/blob/4033dc6821bbaeacc407399036649245ff337cba/react-portfolio/src/assets/Images/employeetracker.png?raw=true"
     }, {
         "id": 5,
         "title": "Team Generator",
         "github": "https://github.com/XavierG13/Team-Profile-Generator",
         "deploy": "",
-        "img": "https://github.com/XavierG13/React-Portfolio/blob/8fdba87296a452078ecb4fd46048e49739613f82/reactportfolio/src/assets/Images/teamprofilegen.png?raw=true"
+        "img": "https://github.com/XavierG13/React-Portfolio/blob/4033dc6821bbaeacc407399036649245ff337cba/react-portfolio/src/assets/Images/teamprofilegen.png?raw=true"
     }, {
         "id": 6,
         "title": "ReadMe Generator",
         "github": "https://github.com/XavierG13/README-Generator",
         "deploy": "",
-        "img": "https://github.com/XavierG13/React-Portfolio/blob/8fdba87296a452078ecb4fd46048e49739613f82/reactportfolio/src/assets/Images/readme-img.png?raw=true"
+        "img": "https://github.com/XavierG13/React-Portfolio/blob/4033dc6821bbaeacc407399036649245ff337cba/react-portfolio/src/assets/Images/readme-img.png?raw=true"
     }
 ]
