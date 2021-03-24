@@ -39,7 +39,11 @@ function ContactMe() {
                   <Col>
                     <h3>Downloadable Resume:</h3>
                     <Button id="resume" type="submit">
-                      <a href="https://drive.google.com/file/d/1ox_J2H01PpK2pcBqsaGsVu3cqHsXIWFF/view?usp=sharing">
+                      <a
+                        rel="noreferrer"
+                        href="https://drive.google.com/file/d/1ox_J2H01PpK2pcBqsaGsVu3cqHsXIWFF/view?usp=sharing"
+                        target="_blank"
+                      >
                         Resume
                       </a>
                     </Button>
