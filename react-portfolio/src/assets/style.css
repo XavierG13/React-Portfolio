@@ -5,6 +5,7 @@ body {
     background-size: cover;
 }
 
+
 /* card/project items styling */
 #p-items {
     background-color: transparent;
@@ -27,7 +28,9 @@ body {
 /* about me styling */
 #Xavier {
     margin-top: 50px;
-    width: 500px;
+    border: 2px solid #ccc;
+    padding: 10px;
+    width: 25em;
     height: 500px;
 }
 
@@ -37,6 +40,15 @@ body {
 
 .myBio {
     height: 1175px;
+}
+
+.aboutMe {
+    border: 2px solid #ccc;
+    text-align: justify;
+    overflow: auto;
+    padding: 10px;
+    width: 25em;
+    height: 500px;
 }
 
 /* contact styling */
@@ -56,7 +68,13 @@ body {
 
 /* portfolio styling */
 #projects {
+    box-sizing: border-box;
+    margin-top: 25px;
     color: darkgray;
+    height: 500px;
+    border: 1px solid darkgray;
+    font: 16px/26px Georgia, Garamond, Serif;
+    overflow: auto;
 }
 
 /* navbar styling  */

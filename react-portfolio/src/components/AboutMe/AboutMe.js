@@ -23,20 +23,20 @@ function AboutMe() {
                       <Col>
                         <Card.Body>
                           <Card.Title>About Me</Card.Title>
-                          <Card.Text>
+                          <Card.Text className="aboutMe">
                             <p>
-                              I am Xavier Guzman, a graduate of the University
+                                I am Xavier Guzman, a graduate of the University
                               of Texas at San Antonio with a degree in Business
                               Management with a Concentration of International
                               Business. In the near future I will be pursuing a
                               degree in Cyber Security.
                               <br></br>
-                              Some of the skills I have picked up are JQuery,
+                                Some of the skills I have picked up are JQuery,
                               Node, and React to name a few. I have been
                               studying web development and am eager to learn
                               more in this field in pursuit of my goals.
                               <br></br>
-                              My field of expertise is with fitness and health
+                                My field of expertise is with fitness and health
                               which I take pride in helping others achieve their
                               goals. I currently train clients on my off time
                               when I am away from work or the computer. When I

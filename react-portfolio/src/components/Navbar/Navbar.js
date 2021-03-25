@@ -34,13 +34,8 @@ function Navbar() {
               </a>
             </li>
             <li className="nav-item">
-              <a className="nav-link" href="Contact">
-                Contact
-              </a>
-            </li>
-            <li className="nav-item">
-              <a className="nav-link" href="Portfolio">
-                Portfolio
+              <a className="nav-link" href="Details">
+                Details
               </a>
             </li>
           </ul>

@@ -75,8 +75,3 @@ function ContactMe() {
 }
 
 export default ContactMe;
-
-/* <h2>Connect with Me</h2>
-            <a href="" target="_blank"><img src="assets/images/github.png"></img></a>
-            <a href="https://www.linkedin.com/in/xavierguzman1993/" target="_blank"><img
-                    src="assets/images/linkedin.png"></img></a> */

@@ -10,12 +10,6 @@ function Portfolio() {
     <div id="thirdPage">
       <Container id="projects">
         <Row className="align-items-center text-center">
-          <Col>
-            <h1>Portfolio</h1>
-          </Col>
-        </Row>
-        <hr></hr>
-        <Row className="align-items-center text-center">
           {myprojects.map((project) => (
             <ProjectItems
               key={Math.random()}
