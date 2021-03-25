@@ -71,6 +71,7 @@ body {
     box-sizing: border-box;
     margin-top: 25px;
     color: darkgray;
+    width: min-content;
     height: 500px;
     border: 1px solid darkgray;
     font: 16px/26px Georgia, Garamond, Serif;

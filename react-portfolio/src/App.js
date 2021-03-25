@@ -10,6 +10,7 @@ function App() {
   return (
     <Router>
       <div className="App">
+        <Navbar />
         <Switch>
           <Route exact path={["/", "/Home"]} component={Home} />
           <Route exact path={["/Details"]} component={Details} />
