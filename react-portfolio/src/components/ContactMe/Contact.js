@@ -5,7 +5,7 @@ import "../../assets/style.css";
 function ContactMe() {
   return (
     <div>
-      <Container id="contact">
+      <div id="contact">
         <div className="secondPage">
           <Card className="text-center">
             <Card.Header>Contact Me</Card.Header>
@@ -69,7 +69,7 @@ function ContactMe() {
             </Card.Body>
           </Card>
         </div>
-      </Container>
+      </div>
     </div>
   );
 }

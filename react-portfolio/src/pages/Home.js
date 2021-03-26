@@ -4,12 +4,8 @@ import AboutMe from "../components/AboutMe/AboutMe";
 
 const Home = () => {
   return (
-    <Container fluid>
-      <Row>
-        <Col size="md-6">
-          <AboutMe />
-        </Col>
-      </Row>
+    <Container>
+      <AboutMe />
     </Container>
   );
 };
